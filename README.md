@@ -73,6 +73,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Grafana](https://grafana.com/) – Visualization and dashboarding for metrics.
 - [Jaeger](https://www.jaegertracing.io/) – Distributed tracing system.
 - [OpenTelemetry](https://opentelemetry.io/) – Observability framework for cloud-native software.
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations. CNCF Sandbox project.
 
 ## Security
 
