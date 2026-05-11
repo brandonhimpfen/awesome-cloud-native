@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Cloud Native"
+abstract: "A curated list of tools, platforms, frameworks, projects, tutorials, and educational resources related to cloud-native computing, containerization, orchestration, observability, and scalable distributed systems."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-cloud-native"
+keywords:
+  - cloud native
+  - Kubernetes
+  - containers
+  - microservices
+  - DevOps
+  - distributed systems
+  - observability
+  - cloud infrastructure
+  - platform engineering
+  - awesome list
