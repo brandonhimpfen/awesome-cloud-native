@@ -77,6 +77,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Security
 
 - [Falco](https://falco.org/) – Kubernetes runtime security engine.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) – Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Kube-bench](https://github.com/aquasecurity/kube-bench) – Checks Kubernetes against security benchmarks.
 - [OPA (Open Policy Agent)](https://www.openpolicyagent.org/) – Policy-based control for cloud native environments.
 
