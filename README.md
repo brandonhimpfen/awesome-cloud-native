@@ -1,4 +1,4 @@
-# Awesome Cloud Native [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Cloud Native [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1020469753.svg)](https://doi.org/10.5281/zenodo.19673081)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -100,9 +100,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Kubernetes](https://github.com/awesomelistsio/awesome-kubernetes)** – Curated Kubernetes resources.
-- **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)** – Tools and resources related to DevOps.
-- **[Awesome CI](https://github.com/awesomelistsio/awesome-ci)** – Continuous integration tools and resources.
+- **[Awesome Kubernetes](https://github.com/brandonhimpfen/awesome-kubernetes)** – Curated Kubernetes resources.
+- **[Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)** – Tools and resources related to DevOps.
+- **[Awesome CI](https://github.com/brandonhimpfen/awesome-ci)** – Continuous integration tools and resources.
   
 ## Contribute
 
